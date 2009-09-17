@@ -1,0 +1,16 @@
+*.sw?
+blib*
+inc
+MANIFEST
+MANIFEST.bak
+Makefile
+Makefile.old
+Build
+_build*
+pm_to_blib*
+*.tar.gz
+.lwpcookies
+cover_db
+Engage-API-Email-*
+META.yml
+*_CPANTS.txt
