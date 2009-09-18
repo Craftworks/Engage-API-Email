@@ -1,0 +1,7 @@
+API::Email::Sender:
+  view_class: 'ClearSilver'
+  email:
+    test:
+      from: 'framework@example.com'
+      subject: 'API Email Subject'
+      template: 'email/test'
